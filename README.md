@@ -1,6 +1,5 @@
 # fashion_mnist_dataset
-In this notebook, I have used unsupervised learning model to analyze the Fashion-MNIST dataset. The Fashion-MNIST dataset provided here consists of 60,000 images of clothing.
-Each observation is a 28×28 pixel grayscale image, so each observation has 282 = 784 dimensions. There are 10 types of clothing in the dataset. The first column of the data matrix is the label of the observation, and all other columns are pixel intensities.
+In this notebook, I have used unsupervised learning model to analyze the Fashion-MNIST dataset. The Fashion-MNIST dataset provided here consists of 60,000 images of clothing. Each observation is a 28×28 pixel grayscale image, so each observation has 28*28 = 784 dimensions. There are 10 types of clothing in the dataset. The first column of the data matrix is the label of the observation, and all other columns are pixel intensities.
 
 Objectives:
 
